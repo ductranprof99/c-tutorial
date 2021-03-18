@@ -1,0 +1,13 @@
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.exe
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.deps.json
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.runtimeconfig.json
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.runtimeconfig.dev.json
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.dll
+D:\C#proj\Tutorial\L2.Linq\cars\bin\Debug\netcoreapp3.1\cars.pdb
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.csprojAssemblyReference.cache
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.AssemblyInfoInputs.cache
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.AssemblyInfo.cs
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.csproj.CoreCompileInputs.cache
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.dll
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.pdb
+D:\C#proj\Tutorial\L2.Linq\cars\obj\Debug\netcoreapp3.1\cars.genruntimeconfig.cache

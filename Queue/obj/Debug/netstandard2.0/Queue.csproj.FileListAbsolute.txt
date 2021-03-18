@@ -1,0 +1,9 @@
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netstandard2.0\Queue.deps.json
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netstandard2.0\Queue.dll
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netstandard2.0\Queue.pdb
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.csprojAssemblyReference.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.AssemblyInfoInputs.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.AssemblyInfo.cs
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.csproj.CoreCompileInputs.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.dll
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netstandard2.0\Queue.pdb

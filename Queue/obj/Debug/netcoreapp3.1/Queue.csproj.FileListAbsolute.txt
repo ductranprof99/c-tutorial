@@ -1,0 +1,13 @@
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+D:\C#proj\Tutorial\L2.Linq\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+D:\C#proj\Tutorial\L2.Linq\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
